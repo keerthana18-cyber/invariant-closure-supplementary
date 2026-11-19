@@ -1,0 +1,11 @@
+{
+  "title": "Supplementary code for: A Singularity-Driven Invariant Closure Theory for Traveling Wave Solutions of Nonlinear Partial Differential Equations",
+  "upload_type": "software",
+  "description": "Exact symbolic audit (692 cases) and independent verification scripts for the invariant closure theory of traveling waves: coefficient systems, Groebner-basis nonexistence certificates, Singular cofactor identities, verification of the found closures and the script that produces the profile figure.",
+  "creators": [
+    {"name": "Keerthana, N.", "affiliation": "Department of Mathematics, Bharathiar University, Coimbatore, India"},
+    {"name": "Annapoorani, N.", "affiliation": "Department of Mathematics, Bharathiar University, Coimbatore, India"}
+  ],
+  "license": "MIT",
+  "keywords": ["traveling waves", "auxiliary equation methods", "Painleve analysis", "Groebner bases", "certified nonexistence"]
+}
